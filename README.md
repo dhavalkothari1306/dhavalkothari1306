@@ -59,23 +59,6 @@ I'm **Dhaval Kothari**, a dual-degree student pursuing a **B.S. in Data Science 
 
 ### 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/dhavalkothari1306/CustomerIQ">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalkothari1306&repo=CustomerIQ&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/dhavalkothari1306/FinGuard">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalkothari1306&repo=FinGuard&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/dhavalkothari1306/CollabCOde">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalkothari1306&repo=CollabCOde&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/dhavalkothari1306/DevLaunch">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dhavalkothari1306&repo=DevLaunch&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
 | Project | What it does | Stack | Result |
 |---|---|---|---|
 | **[CustomerIQ](https://github.com/dhavalkothari1306/CustomerIQ)** | Churn prediction + AI retention strategy engine on IBM Telco data (7,043 records): risk tiers, feature drivers, survival analysis, and LLM-generated intervention briefs per segment | Python, PostgreSQL, XGBoost, PyTorch, LangChain, OpenAI API, FastAPI, Streamlit, Docker | **AUC-ROC 0.87**, **23% better** churn detection than baseline |
@@ -187,11 +170,6 @@ Multiclass classification (macro-F1). Iterating from a LightGBM baseline (**0.69
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dhavalkothari1306&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhavalkothari1306&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=dhavalkothari1306&theme=tokyonight&hide_border=true" />
 
 <br/>
@@ -200,7 +178,7 @@ Multiclass classification (macro-F1). Iterating from a LightGBM baseline (**0.69
 <img src="https://github-profile-trophy.vercel.app/?username=dhavalkothari1306&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 ### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhavalkothari1306&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://ghchart.rshah.org/2c5364/dhavalkothari1306" width="90%" alt="GitHub contribution chart" />
 
 </div>
 
